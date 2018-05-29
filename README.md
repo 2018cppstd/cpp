@@ -11,7 +11,7 @@ reference :
 ![](http://bookimg.gilbut.co.kr/book/BN001899/rn_view_BN001899.jpg)
 
 ```c++
-members : uc4ntc4tchm3
-yomae / rkfqlwjstk / HoGLee /
+members : uc4ntc4tchm3 / SuperApeach
+yomae / rkfqlwjstk / HoGLee / someyou
 ```
 
