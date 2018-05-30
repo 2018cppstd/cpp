@@ -7,11 +7,11 @@ Title : Basic of Cpp
 ```
 
 ```
-Presenter : 
+Presenter : yomae
 ```
 
 ```
-Participants : 
+Participants : HoGLee / someyou / juri3
 ```
 
 ```
