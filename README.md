@@ -12,6 +12,6 @@ reference :
 
 ```c++
 members : uc4ntc4tchm3 / SuperApeach
-yomae / rkfqlwjstk / HoGLee / someyou
+yomae / rkfqlwjstk / HoGLee / someyou / juri3 / giftchoi
 ```
 
