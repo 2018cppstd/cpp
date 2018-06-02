@@ -11,7 +11,7 @@ Presenter : yomae
 ```
 
 ```
-Participants : HoGLee / someyou / juri3
+Participants : rkfqlwjstk / HoGLee / someyou / juri3 / giftchoi
 ```
 
 ```
