@@ -22,7 +22,5 @@ swap()함수를 예시로 설명하세요
 (throw - catch, 및 사용자 정의 exception 사용)
 ```
 
-```
 
-```
 
