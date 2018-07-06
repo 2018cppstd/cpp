@@ -9,11 +9,12 @@ Question2. JR
 # 3. 생성자란 무엇인지 설명하고, Money class의 Object를 생성할 때 여러 국가의 화폐로 초기화 할 수 있는 생성자를 3개 이상 구현하시오. (초기화 섹션을 이용할 것)
  - 생성자란, 클래스의 객체를 초기화하고 멤버함수의 작업환경을 만드는 메서드 이다. 
 
-   class Money{
+    class Money{
 	public : 
 		Money( float dollar_new, float euro_new, float won_new)
 			 : dollar(dollar_new), euro(euro_new), won(won_new){} 
     };
+
 # 4. default 생성자를 정의하지 않았을 때 생기는 문제점에 대해 서술하시오.
  - 변수의 의미없는 값이 생성될 수있다. 또, 디폴트 생성자가 없는 타입을 구현하기가 어려움.
 
