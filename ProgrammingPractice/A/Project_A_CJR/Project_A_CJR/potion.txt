@@ -1,0 +1,1 @@
+redpotion recover_strength  $2 
